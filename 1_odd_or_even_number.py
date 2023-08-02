@@ -1,4 +1,4 @@
-# checking if a number is even or add
+# checking if a number is even or odd
 
 num = int(input('Enter a number to know if it is even or odd: '))
 
