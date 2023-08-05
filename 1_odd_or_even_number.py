@@ -1,3 +1,6 @@
+"""Ask the user for a number and check if
+the number is even or odd"""
+
 # request a number for the user
 num = int(input('Enter a number to know if it is even or odd: '))
 

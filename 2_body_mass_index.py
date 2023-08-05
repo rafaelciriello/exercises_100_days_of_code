@@ -1,3 +1,5 @@
+"""Asks for the user's weight and height and calculates their BMI"""
+
 # request user height and weight
 height = float(input('Enter your height in meters: '))
 weight = float(input('Enter your weight in kg: '))

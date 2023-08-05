@@ -1,3 +1,7 @@
+"""Asks the user for two names, concatenates them into a single string, 
+checks the occurrence of the letters (t r u e l o v e) and returns a 
+two-digit number as the love index"""
+
 # Love Calculator
 print("Welcome to the Love Calculator!")
 

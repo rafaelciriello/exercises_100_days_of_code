@@ -1,3 +1,5 @@
+"""Aks the user to enter a year and returns whether or not it is a leap year"""
+
 # ask the user for the year
 year = int(input('Enter the year to find out if is a leap year: '))
 

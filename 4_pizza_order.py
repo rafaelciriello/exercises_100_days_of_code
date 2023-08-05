@@ -1,3 +1,7 @@
+"""Asks the user to choose the size of a pizza, 
+whether or not to add pepperoni and cheese, 
+and returns the total value"""
+
 # ask the user to choose size, pepperoni and cheese
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ").upper()
