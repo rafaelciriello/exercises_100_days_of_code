@@ -1,5 +1,4 @@
-'''Create a Heads or Tails game 
-using random module and conditional statements if and else'''
+'''Create a Heads or Tails game using random module and conditional statements if and else'''
 
 # Import random modulo
 import random

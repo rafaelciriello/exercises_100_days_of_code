@@ -1,5 +1,4 @@
-"""program asks the user for names 
-and randomly selects one to pay the bill"""
+"""Asks the user for names and randomly selects one to pay the bill"""
 
 # import random module
 import random
