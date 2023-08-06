@@ -1,6 +1,5 @@
-"""Asks the user for height, authorizes or not the sale of the ticket, 
-calculates the value considering age and added a photo 
-and returns the total value of the ticket"""
+"""Asks the user for height, authorizes or not the sale of the ticket, calculates 
+the value considering age and added a photo and returns the total value of the ticket"""
 
 # rollercoaster
 print("Welcome to the rollercoaster!")

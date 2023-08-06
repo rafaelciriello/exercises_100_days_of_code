@@ -1,6 +1,5 @@
-"""Asks the user to choose the size of a pizza, 
-whether or not to add pepperoni and cheese, 
-and returns the total value"""
+"""Asks the user to choose the size of a pizza, whether or not to 
+add pepperoni and cheese, and returns the total value"""
 
 # ask the user to choose size, pepperoni and cheese
 print("Welcome to Python Pizza Deliveries!")
