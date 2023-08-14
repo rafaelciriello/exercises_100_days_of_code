@@ -1,4 +1,4 @@
-# FizzBuzz
+"""FizzBuzz"""
 
 # using loop with defined range and conditionals
 
@@ -11,4 +11,3 @@ for number in range(1, 101):
         print("Buzz")
     else:
         print(number)
-        
