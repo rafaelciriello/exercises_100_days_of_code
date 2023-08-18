@@ -1,7 +1,9 @@
-#The wall
+"""Calculates the number of paint cans to paint a given area"""
 
 from math import ceil
+
 def paint_calc(height, width, cover):
+
     area = height * width
     number_of_cans = ceil(area / cover)
     print(f"You'll need {number_of_cans} cans of paint.")
