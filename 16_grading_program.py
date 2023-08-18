@@ -1,3 +1,5 @@
+"""Grading program"""
+
 student_scores = {
     "Harry": 81,
     "Ron": 78,
