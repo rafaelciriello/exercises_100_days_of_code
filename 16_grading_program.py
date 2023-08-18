@@ -1,4 +1,4 @@
-"""Grading program"""
+"""Classifies the grades of some students from a predefined list"""
 
 student_scores = {
     "Harry": 81,

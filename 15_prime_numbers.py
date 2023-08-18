@@ -1,4 +1,4 @@
-"""Prime numbers"""
+"""Asks the user for a number and checks if it is a prime number"""
 
 def prime_checker(number):
 
